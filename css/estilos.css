@@ -8,8 +8,12 @@
 body {
     background-color:#000;
     color: #fff;
+<<<<<<< HEAD
     font-size: 18px;
     font-family: 'Lato', sans-serif;
+=======
+    font-size: 18px;  
+>>>>>>> 710d50f (subida 3v)
     font-weight: 300;
 }
 
@@ -43,6 +47,10 @@ body {
 }
 
 .barra-navegacion ul {
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 710d50f (subida 3v)
     display: flex; 
     justify-content: space-between;
     align-items: center;
@@ -51,20 +59,33 @@ body {
 .barra-navegacion li {
     list-style: none;
     display: inline-block;
+<<<<<<< HEAD
 }
 
 .barra-navegacion .logo { 
     color:#3dff3e;
     font-size: 50px;
 }
+=======
+    
+}
+
+
+>>>>>>> 710d50f (subida 3v)
 
 .barra-navegacion a {
     text-decoration: none;
     color: #fff;
+<<<<<<< HEAD
     font-size: 19px;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     text-transform: uppercase;
+=======
+    font-size: 19px;    
+    font-weight: 400;
+    
+>>>>>>> 710d50f (subida 3v)
     border-bottom: 1px solid transparent;
     transition: .5s ease;
 }
@@ -75,6 +96,7 @@ body {
 }
 
 .contenido-descripcion {
+<<<<<<< HEAD
     margin-top: 180px;
     width: 60%;
     display: flex;
@@ -108,7 +130,55 @@ body {
     border: 1px solid #555555;
     animation: parpadeo 2s linear infinite;
     transition: .7s ease;
+=======
+    margin-top: 150px;
+    
+  
+   
+    
+    text-align: justify;
+    font-size: 25px;
+}
+.skills{
+    text-align: center;
+    margin-top: 400px;
+}
+.skills i{
+    letter-spacing: 40px;    
+}
+.redes{
+    margin-top: 180px;
+    text-align: center;
+    
+}
+.redes i{
+    letter-spacing: 40px;
+        
+}
+.contacto{
+    text-align: center;
+}
+
+
+.contenido-descripcion .titulo span:first-child {
+    font-size: 40px; 
+    display: block;
+    font-weight: 350;
+    text-align: center;
+}
+
+.contenido-descripcion .titulo span:last-child {
+    text-align: center;
+    display: block;
+    font-weight: 900;
+    font-size: 50px;
+    
+>>>>>>> 710d50f (subida 3v)
 }
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 710d50f (subida 3v)
